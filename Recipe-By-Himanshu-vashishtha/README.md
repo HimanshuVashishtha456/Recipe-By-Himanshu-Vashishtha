@@ -17,7 +17,7 @@ Installation-------------------------------------------------
 To run the application locally, follow these steps:
 
 1.Clone the repository:
-Copy code- git clone https://github.com/SumitSharma2000/Recipe-By-Sumit
+Copy code- git clone https://github.com/HimanshuVashishtha456/Recipe-By-Himanshu-Vashishtha
 
 2.Navigate to the project directory:
 Copy code- cd recipe-management-app
